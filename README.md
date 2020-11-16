@@ -10,7 +10,6 @@ Ejemplo 1 php my sql
 link
 https://www.ultraedit.com/support/tutorials-power-tips/uestudio/local-php-mysql-dev-environment.html
 *-*-
-
 <br>
 Welcome to PHP Tutorial<br>
 https://www.cosmiclearn.com/php/index.php
