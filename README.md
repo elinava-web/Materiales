@@ -21,3 +21,7 @@ https://github.com/Apress?page=4
 
 #Darta
 https://github.com/smartherd/DartTutorial
+
+#nisrulz
+
+https://github.com/nisrulz/flutter-examples/blob/develop/using_listview/lib/contactlist/modal/contact.dart
